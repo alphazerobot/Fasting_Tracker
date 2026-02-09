@@ -7,5 +7,5 @@ export default defineConfig({
   // For GitHub Pages: set base to your repo name
   // e.g., if your repo is https://github.com/USERNAME/fasting-tracker
   // then base should be '/fasting-tracker/'
-  base: '/fasting-tracker/',
+  base: '/Fasting_Tracker/',
 })
